@@ -1,0 +1,1 @@
+"""VisionAssist application package."""
